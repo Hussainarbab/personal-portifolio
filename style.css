@@ -537,16 +537,14 @@ i {
         transform: rotate(360deg);
     }
 }
-.project-box h3{
-    margin-top: 140px;
-    
-}
+
 
 
 .project-box i{
     font-size: 50px;
-    color: #4ff249;
+    color: black;
     margin-bottom: 25px;
+    margin-top:100px;
 
 }
 
